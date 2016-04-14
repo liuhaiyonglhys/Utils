@@ -12,7 +12,7 @@ import java.io.File;
  * android 包工具类
  * Created by lhy on 2016/4/14.
  */
-public class AndroidPackageUtils {
+public class PackageUtils {
     /**
      * 检查sd卡是否存在
      *
